@@ -2,10 +2,8 @@
 
 
 <div align="center">
-  <h3 align="center">Sistema de Controle de Estacionamento</h3>
-
   <p align="center">
-    O Sistema de Controle de Estacionamento é uma aplicação de gerenciamento de estacionamentos que utiliza tecnologias de ponta para proporcionar uma experiência eficiente e moderna. Desenvolvido com Vite, TypeScript, ReactJS, TailwindCSS e Material UI no Frontend, e Java com Spring Boot no Backend, o sistema combina robustez e usabilidade.
+    O Sistema de Controle de Estacionamento é uma aplicação de gerenciamento de estacionamentos que utiliza tecnologias de ponta para proporcionar uma experiência eficiente e moderna. Desenvolvido com Vite, TypeScript, ReactJS, TailwindCSS e Material UI no Frontend, e Java com Spring Boot e Flyway no Backend, o sistema combina robustez e usabilidade.
   </p>
 </div>
 
@@ -19,6 +17,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - <a href="https://www.typescriptlang.org/"><img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"></a>
 - <a href="https://tailwindcss.com/"><img alt="TailwindCSS" title="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge"></a>
 - <a href="https://www.java.com/"><img alt="Java" title="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+- <a href="https://www.red-gate.com/products/flyway/"><img alt="Flyway" title="Flyway" src="https://img.shields.io/badge/Flyway-ED2300?style=for-the-badge&logo=flyway&logoColor=white"></a>
 - <a href="https://spring.io/projects/spring-boot"><img alt="Spring Boot" title="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge"></a>
 - <a href="https://www.postgresql.org/"><img alt="PostgreSQL" title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge"></a>
 
@@ -27,7 +26,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 Clone o repositório
 
 ```bash
-git clone https://github.com/victoriholc/ParkingControl.git
+git clone https://github.com/victoriholc/EstacionamentoControle.git
 ```
 
 Acesse a pasta do projeto no terminal/cmd
